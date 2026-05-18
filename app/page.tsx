@@ -60,7 +60,7 @@ export default function Home() {
           <h3 className="text-lg font-bold text-slate-100">Full Stack Software Engineer</h3>
           <p className="text-slate-400 font-medium">Engineering Co. - Anand, India</p>
         </div>
-        <span className="text-sm text-slate-500 font-medium">Apr 2023 – Mar 2024</span>
+        <span className="text-sm text-slate-500 font-medium">Apr 2022 – Jun 2024</span>
       </div>
       <ul className="text-slate-300 text-sm space-y-2 list-disc ml-4 leading-relaxed">
         <li>Developed and maintained internal web applications using ASP.NET, C#, and SQL Server.</li>
@@ -74,7 +74,7 @@ export default function Home() {
       <div className="absolute left-[-4px] top-2 w-2 h-2 rounded-full bg-slate-600" />
       <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-4">
         <div>
-          <h3 className="text-lg font-bold text-slate-100">Wordpress Developer Intern</h3>
+          <h3 className="text-lg font-bold text-slate-100">Front End Developer</h3>
           <p className="text-slate-400 font-medium">QA Ninjas Pvt Ltd - Ahmedabad, India</p>
         </div>
         <span className="text-sm text-slate-500 font-medium">Apr 2022 – Sep 2022</span>

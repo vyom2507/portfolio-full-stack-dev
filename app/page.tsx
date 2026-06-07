@@ -70,22 +70,7 @@ export default function Home() {
       </ul>
     </div>
 
-    <div className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-2 before:bottom-0 before:w-[2px] before:bg-slate-800">
-      <div className="absolute left-[-4px] top-2 w-2 h-2 rounded-full bg-slate-600" />
-      <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-4">
-        <div>
-          <h3 className="text-lg font-bold text-slate-100">Front End Developer</h3>
-          <p className="text-slate-400 font-medium">QA Ninjas Pvt Ltd - Ahmedabad, India</p>
-        </div>
-        <span className="text-sm text-slate-500 font-medium">Apr 2022 – Sep 2022</span>
-      </div>
-      <ul className="text-slate-300 text-sm space-y-2 list-disc ml-4 leading-relaxed">
-        <li>Built and updated responsive WordPress pages using HTML, CSS, JavaScript, and plugins.</li>
-        <li>Improved website layouts for better user experience across desktop and mobile devices.</li>
-        <li>Assisted with testing, debugging, and content updates for client websites.</li>
-      </ul>
-    </div>
-  </div>
+    
 </section>
 
       <section className="mb-20">

@@ -69,8 +69,8 @@ export default function Home() {
         <li>Built REST APIs with Spring Boot to reduce backend latency for engineering tools.</li>
       </ul>
     </div>
-
-    
+  </div>
+  </div>
 </section>
 
       <section className="mb-20">
